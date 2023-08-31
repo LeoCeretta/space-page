@@ -1,0 +1,94 @@
+[
+  {
+    "titulo": "Galáxia do Triângulo",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-1.png",
+    "id": "1",
+    "tag": "Galáxias"
+  },
+  {
+    "titulo": "Cinturão de Libra",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-2.png",
+    "id": "2",
+    "tag": "Estrelas"
+  },
+  {
+    "titulo": "Lua",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-3.png",
+    "id": "3",
+    "tag": "Lua"
+  },
+  {
+    "titulo": "Galáxia de Andrômeda",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-4.png",
+    "id": "4",
+    "tag": "Galáxias"
+  },
+  {
+    "titulo": "Sírius",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-5.png",
+    "id": "5",
+    "tag": "Estrelas"
+  },
+  {
+    "titulo": "Nebulosa de Hélix",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-6.png",
+    "id": "6",
+    "tag": "Nebulosas"
+  },
+  {
+    "titulo": "Galáxia do Cata-Vento",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-7.png",
+    "id": "7",
+    "tag": "Galáxias"
+  },
+  {
+    "titulo": "Nebulosa de Orion",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-8.png",
+    "id": "8",
+    "tag": "Nebulosas"
+  },
+  {
+    "titulo": "Polaris",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-9.png",
+    "id": "9",
+    "tag": "Estrelas"
+  },
+  {
+    "titulo": "Antares",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-10.png",
+    "id": "10",
+    "tag": "Estrelas"
+  },
+  {
+    "titulo": "Hebe",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-11.png",
+    "id": "11",
+    "tag": "Asteroides"
+  },
+  {
+    "titulo": "Iris",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-12.png",
+    "id": "12",
+    "tag": "Asteroides"
+  },
+  {
+    "titulo": "Juno",
+    "creditos": "Space page",
+    "imagem": "/assets/imagens/galeria/foto-13.png",
+    "id": "13",
+    "tag": "Asteroides"
+  }
+]
+  
